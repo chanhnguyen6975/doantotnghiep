@@ -1,5 +1,5 @@
 Đồ án tốt nghiệp đại học
-		
+VIT, Mixer, Sparse Learning Project: https://drive.google.com/drive/folders/1Qh7201IdttZRdnDDbHQGniJ-P1tqwR64?usp=share_link
 Đề tài: “MÔ HÌNH PHÁT HIỆN SÂU BỆNH DỰA TRÊN HỌC SÂU”
 
 Người hướng dẫn: NGUYỄN THỊ BÍCH NGUYÊN
