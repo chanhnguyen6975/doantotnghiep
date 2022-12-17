@@ -1,5 +1,10 @@
 Đồ án tốt nghiệp đại học
 VIT, Mixer, Sparse Learning Project: https://drive.google.com/drive/folders/1Qh7201IdttZRdnDDbHQGniJ-P1tqwR64?usp=share_link
+
+D0 Dataset: https://drive.google.com/drive/folders/1HTLiNgOUpVMvTrrEKT_IvsqreTyRwMbD?usp=share_link
+
+Mô hình đã trained: https://drive.google.com/drive/folders/1GayLpDVuPabq9dMeaqitmtfK4PpewLft?usp=share_link
+
 Đề tài: “MÔ HÌNH PHÁT HIỆN SÂU BỆNH DỰA TRÊN HỌC SÂU”
 
 Người hướng dẫn: NGUYỄN THỊ BÍCH NGUYÊN
