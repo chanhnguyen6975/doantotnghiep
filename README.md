@@ -1,5 +1,5 @@
 Đồ án tốt nghiệp đại học
-VIT, Mixer, Sparse Learning Project: https://drive.google.com/drive/folders/1UCe2DEfg4sHxumbhOrzL5FsUIwTSEkum?usp=share_link
+VIT, Mixer, Sparse Learning Project: https://drive.google.com/drive/folders/1GayLpDVuPabq9dMeaqitmtfK4PpewLft?usp=share_link
 
 D0 Dataset: https://drive.google.com/drive/folders/1HTLiNgOUpVMvTrrEKT_IvsqreTyRwMbD?usp=share_link
 
